@@ -342,7 +342,7 @@ function Footer() {
           className="h-8 w-auto brightness-0 invert opacity-70"
         />
         <p className="text-sm text-center sm:text-right">
-          © {new Date().getFullYear()} jets.ai by JETS Club. Free AI tutoring for Nigerian students.
+          © 2026 jets.ai by JETS Club. Free AI tutoring for Nigerian students.
         </p>
       </div>
     </footer>
